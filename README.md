@@ -1,4 +1,4 @@
-# EDMS
+# EMUSR-SSE
 
 **main.py** is the example of key generation, BuildindexTree, SearchIndex, Insert and Delete algorithms.
 <br /> **EDMS.py** is the algorithms of EDMS, which contain BuildindexTree, SearchIndex, Insert and Delete algorithms
